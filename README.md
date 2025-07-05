@@ -17,15 +17,25 @@ A Python-based **Fruit Ninja** style game where you slice flying fruits using **
 ## 📁 Project Structure
 
 GestureControlFruitNinjas/
+
 │
+
 ├── assets/
+
 │ ├── apple.png
+
 │ ├── banana.png
+
 │ ├── orange.png
+
 │ └── sword.png # Visual “blade” following your finger
+
 ├── sounds/
+
 │ └── slice.mp3 # Audio effect on slicing
+
 ├── fruit_ninja.py # Main game logic
+
 └── test.py # (Optional) demo/test script
 
 ---
@@ -44,13 +54,18 @@ pip install opencv-python, mediapipe, pygame
 
 🚀 Run the Game
 
+
 1.Connect and enable your webcam.
+
 
 2.In a terminal, run:
 
+
 python fruit_ninja.py
 
+
 3.Position your hand within the webcam's view—your index fingertip will act as the sword to slice fruits.
+
 
 🎯 Gesture Control Tips
 
