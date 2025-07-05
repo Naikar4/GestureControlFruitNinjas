@@ -40,7 +40,7 @@ GestureControlFruitNinjas/
 
 Install with:
 
-```bash
+bash
 pip install opencv-python mediapipe pygame
 🚀 Run the Game
 1.Connect and enable your webcam.
